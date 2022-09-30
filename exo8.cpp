@@ -1,8 +1,13 @@
-/*
-calcule somme n premier terme de la serie harmonique
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: calcule somme n premier terme de la serie harmonique
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:57:33
+ 
+************************************************/
 
 #include <iostream>
 

@@ -1,8 +1,15 @@
-/*
-Programme conversion temperature
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: Conversion temperature
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:56:46
+ 
+************************************************/
+
+
 
 #include <iostream>
 

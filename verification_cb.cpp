@@ -1,11 +1,13 @@
-/*
-Programme verification cb
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
 
-// 5354562705927473
-// 4974104247287117
+   Description: verification cle cb
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:58:56
+ 
+************************************************/
 
 #include <iostream>
 #include <string>

@@ -1,8 +1,13 @@
-/*
-Programme conversion temperature
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: Aire d'un triangle
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:54:34
+ 
+************************************************/
 
 #include <iostream>
 #include <math.h>

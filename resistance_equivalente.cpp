@@ -1,8 +1,15 @@
-/*
-Programme resistance equivalente
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: resistance equivalente
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:58:33
+ 
+************************************************/
+
+
 
 #include <iostream>
 #include <math.h>

@@ -1,8 +1,15 @@
-/*
-addition nombre paire
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: calcule 100 premier nombre impaire
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:57:01
+ 
+************************************************/
+
+
 
 #include <iostream>
 

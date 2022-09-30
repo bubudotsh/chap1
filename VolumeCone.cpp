@@ -1,8 +1,13 @@
-/*
-Programme qui calcule le volume d'un cone
-auteur : H BUNELIER
-DATE : sept 2022
-*/
+/**********************************************
+
+   Description: Volume Cone
+
+   by: BUNELIER Hugo | github bubudotsh
+
+   Created: 2022-09-30 18:45:43
+   Updated: 2022-09-30 18:59:19
+ 
+************************************************/
 
 #include <iostream>
 
@@ -18,13 +23,6 @@ int main(void) {
 	cin >> rayon;
 	cout << "hauteur cone : " << endl << flush;
 	cin >> hauteur;
-
-	/*
-	ou²
-	cout << "rayons puis hauteur";
-	cin >> hauteur >> rayon;
-
-	*/
 
 	volume = PI * rayon * rayon * hauteur / 3.0;
 
