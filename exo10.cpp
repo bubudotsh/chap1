@@ -15,12 +15,12 @@
 
 using namespace std;
 
-
 int main()
 {
-    int max, x;
+    double max = 0, moy_add = 0, moy, val, min = val;
+    int tabs = 0;
     vector<double> tab {};
-    cout << "entrer vos nombre" << endl;
+    cout << "entrer vos nombre, type -1 top  stop" << endl;
 
     while (true) {
         double nb;
@@ -33,21 +33,23 @@ int main()
         tab.push_back(nb);
     }
 
-    // compter le nombre de vleur dans le tableau
-
-    for (int i=0;i<50;++i) {
-
-        if(tab[i]>max) {
-            max=tab[i];
-        }
-
+    while (tab[tabs] != '\0') {
+        tabs++;
     }
 
+    for (int i = 0 ; i != tabs ; ++i) {
+        if(tab[i] > max) {
+            max = tab[i];
+        }
+        if (tab[i] < min) {
+            min = tab[i];
+        }
+        moy_add += tab[i];
+    }
 
-    double moyenne = (accumulate(begin(tab), end(tab), 0)) / tab.size();
+    moy = moy_add / tabs;
 
-    cout << "moyenne: " << moyenne << "; max: " << max << endl;
-
+    cout << "moyenne: " << moy << "; max: " << max << "; min: " << min << endl;
 
     cin.get();
     cin.ignore();
