@@ -10,17 +10,26 @@
 ************************************************/
 
 #include <iostream>
+#include <cstdlib>
 
 using namespace std;
 
 
 int main() {
 
-    int nb;
+    int coup;
+    int nb = rand() % 100 + 1;
 
     cout << "nombre de coup max: " << endl;
+    cin >> coup;
 
-    
+    while (true) {
+        cout << "";
+    }
+
+
+
+
 
 	cin.get(); cin.ignore();
 
