@@ -4,10 +4,12 @@
 
    by: BUNELIER Hugo | github bubudotsh
 
-   Created: 2022-10-01 17:38:56
-   Updated: 2022-10-01 17:38:59
+   Created: 2022-10-04 17:41:10
+   Updated: 2022-10-04 18:30:43
  
 ************************************************/
+
+
 
 #include <iostream>
 using namespace std;
