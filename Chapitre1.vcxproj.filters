@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="verification_cb.cpp">
+    <ClCompile Include="exo15.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>

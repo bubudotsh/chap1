@@ -1,1 +1,2 @@
 C:\Users\snir\Desktop\SNIR1\Chapitre1\x64\Debug\Chapitre1.exe
+C:\Users\snir\Desktop\SNIR1\prog\chap1\x64\Debug\Chapitre1.exe

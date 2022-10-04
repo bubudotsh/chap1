@@ -1,2 +1,3 @@
-﻿  verification_cb.cpp
-Z:\VR\prog\Chapitre1\verification_cb.cpp(19,2): error C3861: 'getline' : identificateur introuvable
+﻿  exo15.cpp
+  LINK : C:\Users\snir\Desktop\SNIR1\prog\chap1\x64\Debug\Chapitre1.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Chapitre1.vcxproj -> C:\Users\snir\Desktop\SNIR1\prog\chap1\x64\Debug\Chapitre1.exe

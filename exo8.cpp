@@ -12,8 +12,6 @@
 #include <iostream>
 
 using namespace std;
-using std::stoi;
-using std::string;
 
 
 int main() {
