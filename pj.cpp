@@ -4,11 +4,10 @@
 
    by: BUNELIER Hugo | github bubudotsh
 
-   Created: 2022-10-04 17:41:10
-   Updated: 2022-10-04 18:30:32
+   Created: 2022-10-05 16:10:55
+   Updated: 2022-10-05 16:10:57
  
 ************************************************/
-
 
 #include <iostream>
 #include <cstdlib>
@@ -19,6 +18,11 @@ int main() {
 
     int coup, x, y = 0;
     int nb = rand() % 100 + 1;
+
+
+    cout << "+-----------------------------------------+" << endl;
+    cout << "|              Petit Jeux !               |" << endl;
+    cout << "+-----------------------------------------+\n" << endl;
 
     cout << "nombre de coup max: " << endl;
     cin >> coup;
