@@ -18,6 +18,7 @@ using namespace std;
 int main() {
 
     int coup, x, y = 0;
+    srand(time(NULL));
     int nb = rand() % 100 + 1;
 
     cout << "nombre de coup max: " << endl;
